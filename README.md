@@ -4,8 +4,11 @@ Topics Covered
 
 
 Matrix Addition
+
 Matrix Transpose
+
 Matrix Diagonal Sum
+
 
 Learning Journey
 
